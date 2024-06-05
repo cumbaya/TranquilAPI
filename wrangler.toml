@@ -12,4 +12,4 @@ bucket_name = 'tranquil'
 [[d1_databases]]
 binding = 'database'
 database_name = 'tranquil'
-database_id = '671954cf-2942-44a1-80e6-e943cece374b'
+database_id = '11b0a09a-7ef9-4753-90d1-b4df500a5ed5'
